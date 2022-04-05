@@ -34,3 +34,19 @@
 .container:hover .overlay {
     opacity: 1;
 }
+
+.carousel-hero, .carousel-inner{
+    height: 600px;
+}
+.carousel-hero .carousel-item{
+    padding:50px;
+    height: 100px;
+    width: 500px;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.white{
+    color:#333;
+}
